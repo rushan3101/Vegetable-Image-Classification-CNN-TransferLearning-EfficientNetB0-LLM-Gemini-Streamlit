@@ -1,0 +1,19 @@
+Vegetable Name,Precision,Recall,F1-score,No. of Samples
+Bean,1.0,1.0,1.0,200.0
+Bitter_Gourd,1.0,0.99,0.99,200.0
+Bottle_Gourd,1.0,1.0,1.0,200.0
+Brinjal,1.0,1.0,1.0,200.0
+Broccoli,1.0,1.0,1.0,200.0
+Cabbage,1.0,0.99,0.99,200.0
+Capsicum,1.0,1.0,1.0,200.0
+Carrot,1.0,1.0,1.0,200.0
+Cauliflower,1.0,1.0,0.99,200.0
+Cucumber,1.0,1.0,0.99,200.0
+Papaya,1.0,1.0,1.0,200.0
+Potato,1.0,1.0,1.0,200.0
+Pumpkin,1.0,1.0,1.0,200.0
+Radish,1.0,1.0,1.0,200.0
+Tomato,1.0,1.0,1.0,200.0
+accuracy,0.99933,0.99933,0.99933,0.99933
+macro avg,0.99933,0.99933,0.99933,3000.0
+weighted avg,0.99933,0.99933,0.99933,3000.0
